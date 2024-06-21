@@ -22,6 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaykumar8922&show_icons=true&locale=en" alt="abhaykumar8922" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaykumar8922&" alt="abhaykumar8922" /></p>
+
 ![snake gif](https://github.com/Abhaykumar8922/Abhaykumar8922/blob/output/github-contribution-grid-snake.gif)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
